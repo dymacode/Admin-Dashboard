@@ -3,7 +3,7 @@ import "./footer.scss"
 const Footer = () => {
   return (
     <div className="footer">
-      <span>DymAdmin </span>
+      <span>Dymadmin </span>
       <span> Dyma Dev Admin Dashbord</span>
     </div>
   )
