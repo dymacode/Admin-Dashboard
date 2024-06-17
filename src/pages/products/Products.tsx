@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Add from "../../components/add/Add";
 import DataTable from "../../components/dataTable/DataTable";
-import { products, userRows } from "../../data";
+import { products, } from "../../data";
 import "./products.scss";
 import { GridColDef } from "@mui/x-data-grid";
 
